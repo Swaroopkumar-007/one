@@ -12,3 +12,4 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
     alert('Please fill out all fields.');
   }
 });
+//To test webhooks
